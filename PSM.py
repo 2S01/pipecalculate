@@ -22,7 +22,6 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QFileDialog, QMessageBox,
     QVBoxLayout,QGroupBox,QLineEdit,QGridLayout,QLabel,QPushButton,QTextBrowser
 
 
-#gittextsssssss
 class ActivationWidget(QMainWindow):
     def __init__(self, parent=None):
         super(ActivationWidget, self).__init__(parent)
